@@ -23,7 +23,7 @@ def handle_message(message):
                 "price": float(trade["p"]),
                 "tickDirection": trade["L"],
                 "tradeid": trade["i"]
-            }
+            } 
             trade_list.append(trade_data)
         print(trade_data)
         # Convert to DataFrame
