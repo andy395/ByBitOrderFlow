@@ -9,3 +9,14 @@ data/BTCUSD2024-12-10.csv.gz
 
 data/BTCUSD2024-12-10.csv
 .gitignore
+info/databse.txt
+.env
+.gitignore
+data/BTCUSD2024-12-10.csv
+data/BTCUSD2024-12-11.csv
+data/BTCUSD2024-12-12.csv
+.gitignore
+check_working.py
+download.py
+import_BB_missing.py
+trade_history.csv
